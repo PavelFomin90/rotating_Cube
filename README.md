@@ -1,2 +1,2 @@
-# rotating_Cube
-Simple rotating cube.
+# Rotating Cube
+in progress
